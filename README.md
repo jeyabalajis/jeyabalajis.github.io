@@ -1,2 +1,2 @@
 # jeyabalajis.github.io
-github personal portfolio
+Github Personal Portfolio
